@@ -1,4 +1,4 @@
 export default function Footer(){
-    return <div id="footer"><hr></hr>Disclaimer: This site is NOT affiliated with or endorsed by any anime studios responsible for the content displayed. All content is sourced from independent third-party services.
+    return <div id="footer"><hr></hr>Disclaimer: 9Anime does not host or upload any content. All anime is sourced from third-party services, and we do not claim ownership of any media.
     </div>
 }
