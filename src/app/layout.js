@@ -6,7 +6,7 @@ import Script from "next/script";
 const roboto = Manrope({ subsets: ["latin"], weight: "400" });
 
 export const metadata = {
-  title: "inu - home",
+  title: "9Anime",
   description: "a site to watch anime",
 };
 
