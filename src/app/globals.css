@@ -1,7 +1,7 @@
 body {
 	background-color: rgb(0, 0, 0);
 	color: rgb(184, 184, 184);
-	margin: 10px;
+	margin: 20px;
 }
 
 #navbarComp {
@@ -9,13 +9,12 @@ body {
 	display: flex;
 	align-items: center;
 	flex-wrap: wrap;
-	gap: 10px;
 }
 
 #inputsearch {
 	margin-left: auto;
-	max-width: 100%;
 	width: 100%;
+	max-width: 300px;
 }
 
 .episode-box:hover {
@@ -26,11 +25,11 @@ body {
 	width: 100%;
 	max-width: 300px;
 	margin: 10px auto;
-	font-size: 20px;
 }
 
 #footer {
-	font-size: 16px;
+	font-size: 18px;
+	font-weight: 700;
 	text-align: center;
 }
 
@@ -53,13 +52,13 @@ body {
 
 #anime {
 	width: 100%;
-	max-width: 200px;
+	max-width: 250px;
 	margin: 0 auto;
 	text-align: center;
 }
 
 #anime h2 {
-	font-size: 18px;
+	font-size: 20px;
 }
 
 #anime:hover {
@@ -67,13 +66,12 @@ body {
 }
 
 .episode-box a {
-	width: 50px;
-	height: 40px;
-	font-size: 14px;
+	width: 60px;
+	height: 50px;
 }
 
 .episode-title {
-	font-size: 18px;
+	font-size: 20px;
 	width: 100%;
 }
 
@@ -85,7 +83,7 @@ body {
 	
 	#anime {
 		width: 100%;
-		max-width: 180px;
+		max-width: 200px;
 	}
 }
 
